@@ -25,11 +25,10 @@
         </activity>
         <activity
             android:name=".demo5.Demo51MainActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".demo4.Demo41MainActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".demo3.Demo31MainActivity"
             android:exported="true" />
